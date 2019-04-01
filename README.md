@@ -1,1 +1,1 @@
-This is an interview challenge for Dillon Software completed by Dean Barker (deanbarker44@gmail.com).
+This is a completed intro code challenge for an agency.
